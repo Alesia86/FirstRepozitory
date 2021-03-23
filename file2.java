@@ -1,2 +1,2 @@
-Good bye!1234
+Good evening! from branch master
 line from user2
